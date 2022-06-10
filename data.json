@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Lära mig typescript",
+    "description": "react och typeacript",
+    "link": "typescript.com",
+    "priority": "1",
+    "timeToFinish": "260",
+    "createdAt": "2022-06-10T15:29:01.593Z",
+    "status": "inactive",
+    "id": "1654874941593"
+  },
+  {
+    "title": "Learn french",
+    "description": "to understand all the great french movies",
+    "link": "link.com",
+    "priority": "3",
+    "timeToFinish": "160",
+    "createdAt": "2022-06-09T15:32:51.255Z",
+    "status": "inactive",
+    "id": "1654788771255"
+  },
+  {
+    "title": "Learn node.js",
+    "description": "learn more about a nice server",
+    "link": "link.com",
+    "priority": "1",
+    "timeToFinish": "100",
+    "createdAt": "2022-06-09T15:18:47.375Z",
+    "status": "inactive",
+    "id": "1654787927375"
+  },
+  {
+    "id": "1",
+    "title": "Learning next.js",
+    "description": "I would like to learn next.js and build a nice app",
+    "link": "https://nextjs.org",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Learning react.js",
+    "description": "I would like to learn react.js and build a nice portfolio to showcase my work",
+    "link": "https://reactjs.org",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "inactive"
+  },
+  {
+    "id": "3",
+    "title": "Learning GSAP",
+    "description": " I would like to learn GSAP and create modern web animations",
+    "link": "https://gsap.org",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive"
+  }
+]
