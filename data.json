@@ -4,7 +4,7 @@
     "description": "react och typeacript",
     "link": "typescript.com",
     "priority": "1",
-    "timeToFinish": "260",
+    "timeToFinish": "270",
     "createdAt": "2022-06-10T15:29:01.593Z",
     "status": "inactive",
     "id": "1654874941593"
@@ -14,13 +14,14 @@
     "description": "to understand all the great french movies",
     "link": "link.com",
     "priority": "3",
-    "timeToFinish": "160",
+    "timeToFinish": "251",
     "createdAt": "2022-06-09T15:32:51.255Z",
-    "status": "inactive",
-    "id": "1654788771255"
+    "status": "active",
+    "id": "1654788771255",
+    "activationTime": "2022-06-13T18:41:12.052Z"
   },
   {
-    "title": "Learn node.js",
+    "title": "Learn node.js!",
     "description": "learn more about a nice server",
     "link": "link.com",
     "priority": "1",
